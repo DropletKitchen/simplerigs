@@ -14,7 +14,7 @@ and made available under a
 
 
 #+CAPTION: Image of the rig at several stages of the build. A] fully assembled rig. The inset shows the LED with inexpensive focusing optics. B] image of the openSCAD model used to design the first version. Use this model as a starting point for your own designs. C] setup without the x,y,z-stage. The inset shows the board camera with the flipped objective removed. D] x,y,z-stage.
-[[images/RigCompilation_Labelled.jpeg]]
+[[images/RigCompilation-Labelled.jpeg]]
 #+BEGIN_QUOTE
 Image of the rig at several stages of the build. A] fully assembled
 rig. The inset shows the LED with inexpensive focusing optics. B]
